@@ -1,6 +1,15 @@
 {
-
-    "cacheTime": 7200,
+  "name": "LibreTV-Settings",
+  "time": "1756225073013",
+  "cfgVer": "1.0.0",
+  "data": {
+    "selectedAPIs": "[\"dyttzy\",\"ruyi\",\"bfzy\",\"tyyszy\",\"xiaomaomi\",\"ffzy\",\"heimuer\",\"zy360\",\"iqiyi\",\"wolong\",\"hwba\",\"jisu\",\"dbzy\",\"mozhua\",\"mdzy\",\"zuid\",\"yinghua\",\"baidu\",\"wujin\",\"wwzy\",\"ikun\",\"lzi\",\"qiqi\"]",
+    "yellowFilterEnabled": "true",
+    "adFilteringEnabled": "true",
+    "doubanEnabled": "true",
+    "hasInitializedDefaults": "true",
+    "videoSearchHistory": "[{\"text\":\"神域少女\",\"timestamp\":1756224564419}]",
+   
     "apiSiteMap": {
       "dyttzy": {
         "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
@@ -829,6 +838,3 @@
       }
     }
   },
-  "hash": "fecef8a5a7ad0c7f2ed7df0c1a3557ab3903bfd06509bc19e4fb9c1a155ba18a"
-
-}
